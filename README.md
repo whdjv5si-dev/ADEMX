@@ -1,4 +1,4 @@
-📄 REDEM.md - ARM64Xploit v8.0 (نسخة عربية كاملة)
+
 
 ```markdown
 <div align="center">
